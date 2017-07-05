@@ -3,10 +3,16 @@
 
 #I prefer to use choco through PowerShell app
 
-choco install 7zip qbittorrent adobereader wget anydesk googlechrome snappy-driver-installer vlc avastfreeantivirus flashplayerplugin powershell chocolatey -y
-#choco install chromium
+choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy-driver-installer vlc avastfreeantivirus flashplayerplugin vcredist2015 skype powershell chocolatey -y
+#choco install chromium firefox -y
+#choco install libreoffice -y
 ##clover - explorer a-la chrome
-#choco install clover
+#choco install clover -y
+##gaming
+#choco install steam -y
+
+#Franz - the link seems to include bit and app version, so do it manually
+http://meetfranz.com/#download
 
 #MPC-star
 wget -O ~/Downloads/mpcstar_setup.exe http://download.mpcstar.com/latest/mpcstar_setup.exe
