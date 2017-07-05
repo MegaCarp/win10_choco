@@ -3,10 +3,19 @@
 
 #I prefer to use choco through PowerShell app
 
-choco install 7zip qbittorrent adobereader wget anydesk googlechrome snappy-driver-installer avastfreeantivirus -y
+choco install 7zip qbittorrent adobereader wget anydesk googlechrome snappy-driver-installer vlc avastfreeantivirus flashplayerplugin powershell chocolatey -y
 #choco install chromium
+##clover - explorer a-la chrome
+#choco install clover
 
-#miranda russifying
+#MPC-star
+wget -O ~/Downloads/mpcstar_setup.exe http://download.mpcstar.com/latest/mpcstar_setup.exe
+~/Downloads/mpcstar_setup.exe
+
+#yandex browser (x64 only? x32 win?)
+wget -O ~/Downloads/yandex.exe https://cache-mskdataline05.cdn.yandex.net/download.cdn.yandex.net/browser/hips_activ/ru/lite_int/Yandex.exe?win10pin=1&browser=GoogleChrome/32/59.0.3071&a-type=uncommercial&banerid=6302000000:595c4f30163c41001fa46c03&broexp=8&statistics-checkbox=disabled&stattext=3&zih=1&pps=installID%3D5923704511499177846_1499221810761&yandexuid=5923704511499177846&hash=eb54f6dd580b221b640bcd1566acac40&download_date=1499221810&.exe
+
+#miranda rus
 wget -O ~/Downloads/miranda_rus.zip http://www.mirandaim.info/assets/files/langpackrussiana.zip
 Expand-Archive -LiteralPath ~\Downloads\miranda_rus.zip -DestinationPath 'C:\Program Files\Miranda IM'
 
@@ -18,4 +27,3 @@ start "magnet:?xt=urn:btih:F94573F2B0DD02AAEF9D07DF504192792B57BB9E&tr=http%3A%2
 
 #winrar 5.40
 start "magnet:?xt=urn:btih:F3907C2D65A8E2A4D1C6FF4774FFAC0EB1E8F433&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=WinRAR%20v5.40%20RePack%20by%20elchupakabra%20%5B2016%2CRus%5D"
-
