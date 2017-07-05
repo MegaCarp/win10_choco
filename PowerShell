@@ -9,7 +9,9 @@ choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy
 ##clover - explorer a-la chrome
 #choco install clover -y
 ##gaming
+
 #choco install steam -y
+#steam autostarts by default, to disable - settings -> interface -> first tick
 
 #Franz - the link seems to include bit and app version, so do it manually
 http://meetfranz.com/#download
