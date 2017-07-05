@@ -1,0 +1,21 @@
+#cmd _administrative_
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+#I prefer to use choco through PowerShell app
+
+choco install 7zip qbittorrent adobereader wget anydesk googlechrome snappy-driver-installer avastfreeantivirus -y
+#choco install chromium
+
+#miranda russifying
+wget -O ~/Downloads/miranda_rus.zip http://www.mirandaim.info/assets/files/langpackrussiana.zip
+Expand-Archive -LiteralPath ~\Downloads\miranda_rus.zip -DestinationPath 'C:\Program Files\Miranda IM'
+
+#kms 23.06.2017
+start "magnet:?xt=urn:btih:06F3CF031360777D1489993679D4DD03B786D58F"
+
+#auslogic driver utility 1.9.4.0
+start "magnet:?xt=urn:btih:F94573F2B0DD02AAEF9D07DF504192792B57BB9E&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Auslogics%20Driver%20Updater%20v1.9.4.0%20RePack%2BPortable%20by%20Dodakaedr%20%5BENG%20%2B%20RUS%2C%202017%5D"
+
+#winrar 5.40
+start "magnet:?xt=urn:btih:F3907C2D65A8E2A4D1C6FF4774FFAC0EB1E8F433&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=WinRAR%20v5.40%20RePack%20by%20elchupakabra%20%5B2016%2CRus%5D"
+
