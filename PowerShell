@@ -3,14 +3,13 @@
 
 #I prefer to use choco through PowerShell app (don't forget to Admin it)
 
-choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy-driver-installer vlc avastfreeantivirus flashplayerplugin vcredist2015 skype powershell chocolatey -y
+choco install 7zip qbittorrent adobereader wget anydesk firefox snappy-driver-installer steam openoffice discord  googlechrome jdk8 vlc flashplayerplugin vcredist2015 skype powershell chocolatey -y
 #choco install chromium firefox -y
 #choco install libreoffice -y
 ##clover - explorer a-la chrome
 #choco install clover -y
 ##gaming
 
-#choco install steam -y
 #steam autostarts by default, to disable - settings -> interface -> first tick
 
 #Franz - the link seems to include bit and app version, so do it manually
