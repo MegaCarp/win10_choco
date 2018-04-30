@@ -27,8 +27,8 @@ wget -O ~/Downloads/yandex.exe https://cache-mskdataline05.cdn.yandex.net/downlo
 wget -O ~/Downloads/miranda_rus.zip http://www.mirandaim.info/assets/files/langpackrussiana.zip
 Expand-Archive -LiteralPath ~\Downloads\miranda_rus.zip -DestinationPath 'C:\Program Files\Miranda IM'
 
-#kms 23.06.2017
-start "magnet:?xt=urn:btih:06F3CF031360777D1489993679D4DD03B786D58F"
+#kms 01.04.2018 [CracksNow]
+start "magnet:?xt=urn:btih:b71bde26f892bf09fd565ff3171856138e947450&dn=Ratiborus+KMS+Tools+01.04.2018+%5BCracksNow%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
 
 #auslogic driver utility 1.9.4.0
 start "magnet:?xt=urn:btih:F94573F2B0DD02AAEF9D07DF504192792B57BB9E&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Auslogics%20Driver%20Updater%20v1.9.4.0%20RePack%2BPortable%20by%20Dodakaedr%20%5BENG%20%2B%20RUS%2C%202017%5D"
