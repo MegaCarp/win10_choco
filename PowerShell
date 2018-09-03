@@ -26,15 +26,8 @@ wget -O ~/Downloads/mpcstar_setup.exe http://download.mpcstar.com/latest/mpcstar
 #yandex browser (x64 only? x32 win?)
 wget -O ~/Downloads/yandex.exe https://cache-mskdataline05.cdn.yandex.net/download.cdn.yandex.net/browser/hips_activ/ru/lite_int/Yandex.exe?win10pin=1&browser=GoogleChrome/32/59.0.3071&a-type=uncommercial&banerid=6302000000:595c4f30163c41001fa46c03&broexp=8&statistics-checkbox=disabled&stattext=3&zih=1&pps=installID%3D5923704511499177846_1499221810761&yandexuid=5923704511499177846&hash=eb54f6dd580b221b640bcd1566acac40&download_date=1499221810&.exe
 
-#miranda rus
-wget -O ~/Downloads/miranda_rus.zip http://www.mirandaim.info/assets/files/langpackrussiana.zip
-Expand-Archive -LiteralPath ~\Downloads\miranda_rus.zip -DestinationPath 'C:\Program Files\Miranda IM'
-
-#kms 01.04.2018 [CracksNow]
-start "magnet:?xt=urn:btih:b71bde26f892bf09fd565ff3171856138e947450&dn=Ratiborus+KMS+Tools+01.04.2018+%5BCracksNow%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
-
-#auslogic driver utility 1.9.4.0
-start "magnet:?xt=urn:btih:F94573F2B0DD02AAEF9D07DF504192792B57BB9E&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Auslogics%20Driver%20Updater%20v1.9.4.0%20RePack%2BPortable%20by%20Dodakaedr%20%5BENG%20%2B%20RUS%2C%202017%5D"
+#kms
+https://www.reddit.com/r/MSToolkit/
 
 #winrar 5.40
 start "magnet:?xt=urn:btih:F3907C2D65A8E2A4D1C6FF4774FFAC0EB1E8F433&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=WinRAR%20v5.40%20RePack%20by%20elchupakabra%20%5B2016%2CRus%5D"
