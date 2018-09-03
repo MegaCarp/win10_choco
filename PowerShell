@@ -3,7 +3,7 @@
 
 #I prefer to use choco through PowerShell app (don't forget to Admin it)
 
-choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy-driver-installer vlc avastfreeantivirus flashplayerplugin vcredist2015 skype powershell chocolatey -y
+choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy-driver-installer vlc avastfreeantivirus flashplayerplugin vcredist2015 skype choco install mkvtoolnix powershell chocolatey -y
 #choco install chromium firefox -y
 #choco install libreoffice -y
 ##clover - explorer a-la chrome
@@ -18,6 +18,9 @@ http://meetfranz.com/#download
 
 #Rambox
 https://rambox.pro/#ce
+
+#tunnel bear VPN
+https://www.tunnelbear.com/download
 
 #MPC-star
 wget -O ~/Downloads/mpcstar_setup.exe http://download.mpcstar.com/latest/mpcstar_setup.exe
