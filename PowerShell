@@ -19,6 +19,8 @@ http://meetfranz.com/#download
 #Rambox
 https://rambox.pro/#ce
 
+#to turn off WinAntivirus permanently (it'll turn off by itself otherwise): win+r -> gpedit.msc -> Computer Configuration/Administrative Templates/Windows Components/Windows Defender -> Turn off Windows Defender
+
 #tunnel bear VPN
 https://www.tunnelbear.com/download
 
