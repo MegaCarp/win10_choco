@@ -40,4 +40,4 @@ https://www.reddit.com/r/MSToolkit/
 start "magnet:?xt=urn:btih:F3907C2D65A8E2A4D1C6FF4774FFAC0EB1E8F433&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=WinRAR%20v5.40%20RePack%20by%20elchupakabra%20%5B2016%2CRus%5D"
 
 #alexpet
-#choco install 7zip qbittorrent adobereader wget googlechrome jdk8 snappy-driver-installer mpc-hc flashplayerplugin vcredist2015 xna skype mkvtoolnix powershell chocolatey -y
+#choco install 7zip qbittorrent adobereader wget teamviewer googlechrome jdk8 snappy-driver-installer mpc-hc flashplayerplugin vcredist2015 xna skype mkvtoolnix powershell chocolatey -y
