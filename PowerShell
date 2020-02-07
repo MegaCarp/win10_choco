@@ -3,7 +3,7 @@
 
 #I prefer to use choco through PowerShell app (don't forget to Admin it)
 
-choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy-driver-installer vlc avastfreeantivirus flashplayerplugin vcredist2015 xna skype mkvtoolnix powershell chocolatey -y
+choco install 7zip qbittorrent adobereader wget anydesk googlechrome jdk8 snappy-driver-installer vlc avastfreeantivirus flashplayerplugin vcredist2015 xna etcher skype mkvtoolnix powershell chocolatey -y
 #choco install chromium firefox -y
 #choco install libreoffice -y
 ##clover - explorer a-la chrome
